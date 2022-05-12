@@ -1,0 +1,11 @@
+C:\Users\lasco\rpgAbstract\obj\Debug\netcoreapp3.1\rpgAbstract.csprojAssemblyReference.cache
+C:\Users\lasco\rpgAbstract\obj\Debug\netcoreapp3.1\rpgAbstract.csproj.CoreCompileInputs.cache
+C:\Users\lasco\rpgAbstract\bin\Debug\netcoreapp3.1\rpgAbstract.exe
+C:\Users\lasco\rpgAbstract\bin\Debug\netcoreapp3.1\rpgAbstract.deps.json
+C:\Users\lasco\rpgAbstract\bin\Debug\netcoreapp3.1\rpgAbstract.runtimeconfig.json
+C:\Users\lasco\rpgAbstract\bin\Debug\netcoreapp3.1\rpgAbstract.runtimeconfig.dev.json
+C:\Users\lasco\rpgAbstract\bin\Debug\netcoreapp3.1\rpgAbstract.dll
+C:\Users\lasco\rpgAbstract\bin\Debug\netcoreapp3.1\rpgAbstract.pdb
+C:\Users\lasco\rpgAbstract\obj\Debug\netcoreapp3.1\rpgAbstract.dll
+C:\Users\lasco\rpgAbstract\obj\Debug\netcoreapp3.1\rpgAbstract.pdb
+C:\Users\lasco\rpgAbstract\obj\Debug\netcoreapp3.1\rpgAbstract.genruntimeconfig.cache
